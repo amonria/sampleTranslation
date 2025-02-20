@@ -1,7 +1,7 @@
 {
   "about": {
     "devInfo": "PLApplication developed by",
-    "headerTitle": "About",
+    "title": "About",
     "versionLabel": "Version"
   }
 }
