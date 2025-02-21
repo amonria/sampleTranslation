@@ -21,9 +21,10 @@ jobs:
         with:
           upload_sources: true
           upload_translations: false
-          download_translations: false
+          download_translations: true
           localization_branch_name: l18n_main
           create_pull_request: false
+          push_translations: true
         env:
           # Using GITHUB_TOKEN with write permissions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
