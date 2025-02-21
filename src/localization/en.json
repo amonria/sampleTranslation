@@ -2,6 +2,10 @@
   "about": {
     "devInfo": "Application developed by",
     "headerTitle": "About",
-    "versionLabel": "Version"
+    "versionLabel": "Version",
+    "meta": {
+      "description": "About the application",
+      "title": "About"
+    }
   }
 }
